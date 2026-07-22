@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0179-largest-number) |
 | [0228-summary-ranges](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0228-summary-ranges) |
+| [0739-daily-temperatures](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1207-unique-number-of-occurrences) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0438-find-all-anagrams-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
