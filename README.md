@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1189-maximum-number-of-balloons) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0977-squares-of-a-sorted-array) |
 ## Backtracking
 |  |
