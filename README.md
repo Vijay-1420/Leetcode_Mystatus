@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0136-single-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0179-largest-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0977-squares-of-a-sorted-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
