@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0150-evaluate-reverse-polish-notation) |
