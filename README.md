@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0228-summary-ranges) |
 | [0739-daily-temperatures](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0977-squares-of-a-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0409-longest-palindrome) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0977-squares-of-a-sorted-array) |
