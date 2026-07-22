@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0228-summary-ranges) |
 | [0739-daily-temperatures](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0977-squares-of-a-sorted-array) |
@@ -113,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -149,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0739-daily-temperatures) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
