@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0224-basic-calculator) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0338-counting-bits) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0206-reverse-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
