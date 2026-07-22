@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0179-largest-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/2798-number-of-employees-who-met-the-target) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0067-add-binary) |
+| [0179-largest-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0409-longest-palindrome) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0409-longest-palindrome) |
 ## Counting
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
