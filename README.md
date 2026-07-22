@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1331-rank-transform-of-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0067-add-binary) |
+| [0867-transpose-matrix](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0200-number-of-islands) |
+| [0867-transpose-matrix](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0867-transpose-matrix) |
 ## String Matching
 |  |
 | ------- |
