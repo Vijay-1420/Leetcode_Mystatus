@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1189-maximum-number-of-balloons) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/3110-score-of-a-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1207-unique-number-of-occurrences) |
 ## Greedy
