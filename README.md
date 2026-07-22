@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0771-jewels-and-stones) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0977-squares-of-a-sorted-array) |
 ## Backtracking
 |  |
