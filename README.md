@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0867-transpose-matrix) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1346-check-if-n-and-its-double-exist) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
