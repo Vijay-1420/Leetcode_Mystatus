@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0179-largest-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0394-decode-string) |
