@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0169-majority-element) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0338-counting-bits) |
 ## Linked List
 |  |
