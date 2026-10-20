@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Prefix Sum
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0141-linked-list-cycle) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
