@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0367-valid-perfect-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/2413-smallest-even-multiple) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0367-valid-perfect-square) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
