@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0409-longest-palindrome) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0409-longest-palindrome) |
