@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0224-basic-calculator) |
+| [0263-ugly-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0263-ugly-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/2413-smallest-even-multiple) |
