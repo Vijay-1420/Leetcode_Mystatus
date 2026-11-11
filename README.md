@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3457-eat-pizzas](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/3457-eat-pizzas) |
 ## String
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0409-longest-palindrome) |
+| [3457-eat-pizzas](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/3457-eat-pizzas) |
 ## Counting
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3457-eat-pizzas](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/3457-eat-pizzas) |
 ## Backtracking
 |  |
 | ------- |
