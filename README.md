@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0739-daily-temperatures) |
 ## Recursion
@@ -310,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
