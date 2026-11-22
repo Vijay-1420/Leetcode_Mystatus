@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/2652-sum-multiples) |
+| [3536-maximum-product-of-two-digits](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3457-eat-pizzas](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/3457-eat-pizzas) |
+| [3536-maximum-product-of-two-digits](https://github.com/Vijay-1420/Leetcode_Mystatus/tree/master/3536-maximum-product-of-two-digits) |
 ## Backtracking
 |  |
 | ------- |
